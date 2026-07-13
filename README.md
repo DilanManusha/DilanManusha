@@ -40,8 +40,6 @@
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-> ⚠️ Only keep badges for what you can genuinely talk about in an interview. Add more back in as you actually learn them (e.g. Java, Python).
-
 ## 📊 GitHub Stats
 
 <p align="center">
