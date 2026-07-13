@@ -65,7 +65,7 @@
 |---|---|---|
 | [Garfield Task](https://github.com/DilanManusha/garfield-task) | A task management project built with HTML | HTML |
 | [Greeting App](https://github.com/DilanManusha/greeting-app) | A simple JavaScript greeting/interaction app | JavaScript |
-| [Avtivity](https://github.com/DilanManusha/avtivity) | Personal project — add a short description here | — |
+| [Avtivity](https://github.com/DilanManusha/avtivity) | Personal project  | 6 |
 
 ---
 
